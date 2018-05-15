@@ -1,5 +1,8 @@
 this is a test file for testing
 adding a new line to testfile
 
+<<<<<<< HEAD
 changing the content on file brefor it gets pudate from remote and let see what error will come
+=======
 adding changes from mohan branch 
+>>>>>>> 3b7478ca0a642e238882c7723751fd4ef43826a6
